@@ -1,1 +1,2609 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_131.png" group-title="TR | ULUSAL",TR: TRT 1 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/229
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_131.png" group-title="TR | ULUSAL",TR: TRT 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/460529
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_129.png" group-title="TR | ULUSAL",TR: ATV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/231
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_159.png" group-title="TR | ULUSAL",TR: ATV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/217
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_136.png" group-title="TR | ULUSAL",TR: STAR TV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/232
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_153.png" group-title="TR | ULUSAL",TR: STAR TV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/224
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_128.png" group-title="TR | ULUSAL",TR: SHOW TV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/233
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_154.png" group-title="TR | ULUSAL",TR: SHOW TV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/223
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_130.png" group-title="TR | ULUSAL",TR: KANAL D HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/230
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_152.png" group-title="TR | ULUSAL",TR: KANAL D HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/225
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX/NOW TV HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_127.png" group-title="TR | ULUSAL",TR: FOX/NOW TV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/234
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX/NOW TV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_158.png" group-title="TR | ULUSAL",TR: FOX/NOW TV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/218
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_123.png" group-title="TR | ULUSAL",TR: TV 8 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/251
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: Tv 8 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_155.png" group-title="TR | ULUSAL",TR: Tv 8 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/221
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_133.png" group-title="TR | ULUSAL",TR: TV 8.5 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/222
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8,5 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_163.png" group-title="TR | ULUSAL",TR: TV 8,5 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/212
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_126.png" group-title="TR | ULUSAL",TR: BEYAZ TV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/237
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_157.png" group-title="TR | ULUSAL",TR: BEYAZ TV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/219
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_135.png" group-title="TR | ULUSAL",TR: TEVE 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/257
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TEVE 2 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_151.png" group-title="TR | ULUSAL",TR: TEVE 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/226
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_132.png" group-title="TR | ULUSAL",TR: A2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/227
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_160.png" group-title="TR | ULUSAL",TR: A2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/216
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_125.png" group-title="TR | ULUSAL",TR: KANAL 7 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/238
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_156.png" group-title="TR | ULUSAL",TR: KANAL 7 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/220
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 AVRUPA" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_141.png" group-title="TR | ULUSAL",TR: KANAL 7 AVRUPA
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/70887
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 360 Tv HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_122.png" group-title="TR | ULUSAL",TR: 360 Tv HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/254
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_139.png" group-title="TR | ULUSAL",TR: TGRT EU
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/110477
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 INT" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_147.png" group-title="TR | ULUSAL",TR: TV 8 INT
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/242
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_146.png" group-title="TR | ULUSAL",TR: TV 4 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/258
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 4K" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_124.png" group-title="TR | ULUSAL",TR: TRT 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/244
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 4K 2160P" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_124.png" group-title="TR | ULUSAL",TR: TRT 4K 2160P
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/245
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV AVRUPA" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_149.png" group-title="TR | ULUSAL",TR: ATV AVRUPA
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/240
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TURK" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_137.png" group-title="TR | ULUSAL",TR: SHOW TURK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/209141
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR: SHOW MAX" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_150.png" group-title="TR | ULUSAL",TR: SHOW MAX
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/239
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: EURO STAR" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_148.png" group-title="TR | ULUSAL",TR: EURO STAR
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/241
+#EXTINF:-1 tvg-id="" tvg-name="TR: TYT TURK" tvg-logo="" group-title="TR | ULUSAL",TR: TYT TURK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/637916
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: EURO D" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_162.png" group-title="TR | ULUSAL",TR: EURO D
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/213
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR: TRT 2 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_134.png" group-title="TR | ULUSAL",TR: TRT 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/215
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR: TRT AVAZ HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_140.png" group-title="TR | ULUSAL",TR: TRT AVAZ HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/110475
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TR: TRT TURK HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_120.png" group-title="TR | ULUSAL",TR: TRT TURK HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/110478
+#EXTINF:-1 tvg-id="trtebatvilkokul.tr" tvg-name="TR: TURKSAT TEST 2" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_143.png" group-title="TR | ULUSAL",TR: TURKSAT TEST 2
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/53899
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="TR: TURKSAT TEST 1" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_143.png" group-title="TR | ULUSAL",TR: TURKSAT TEST 1
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/53900
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/100.png" group-title="TR  | ULUSAL 4K",TR: TRT 1 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544072
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/102.png" group-title="TR  | ULUSAL 4K",TR: ATV 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544066
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANALD 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/101.png" group-title="TR  | ULUSAL 4K",TR: KANALD 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544069
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/103.png" group-title="TR  | ULUSAL 4K",TR: SHOW TV 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544067
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/104.png" group-title="TR  | ULUSAL 4K",TR: STAR TV 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544068
+#EXTINF:-1 tvg-id="now.tr" tvg-name="TR: NOW 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/105.png" group-title="TR  | ULUSAL 4K",TR: NOW 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544070
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV8 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/106.png" group-title="TR  | ULUSAL 4K",TR: TV8 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544071
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/110.png" group-title="TR  | ULUSAL 4K",TR: 360 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544075
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV8.5 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/107.png" group-title="TR  | ULUSAL 4K",TR: TV8.5 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544079
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZTV 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/108.png" group-title="TR  | ULUSAL 4K",TR: BEYAZTV 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544073
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/109.png" group-title="TR  | ULUSAL 4K",TR: KANAL 7 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544078
+#EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="TR: TRT SPOR 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/111.png" group-title="TR  | ULUSAL 4K",TR: TRT SPOR 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544077
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/112.png" group-title="TR  | ULUSAL 4K",TR: A SPOR 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544074
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT SPOR 4K" tvg-logo="https://uscloudpanel.com/uploads/usserver_00000004.png" group-title="TR  | ULUSAL 4K",TR: HT SPOR 4K
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/544076
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT SPOR HEVC" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="TR | SPOR",TR: HT SPOR HEVC
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/607859
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT Spor 1080" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="TR | SPOR",TR: HT Spor 1080
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/607857
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT SPOR HD+" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="TR | SPOR",TR: HT SPOR HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/601806
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT Spor 720" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="TR | SPOR",TR: HT Spor 720
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/607858
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT SPOR HD" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="TR | SPOR",TR: HT SPOR HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/456395
+#EXTINF:-1 tvg-id="" tvg-name="TR: EKOL SPORTS" tvg-logo="" group-title="TR | SPOR",TR: EKOL SPORTS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/604625
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_329.png" group-title="TR | TABii SPOR",TR: TRT SPOR HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/636780
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_329.png" group-title="TR | TABii SPOR",TR: TRT SPOR HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/636778
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 1 HD" tvg-logo="https://uscloudpanel.com/uploads/Global/tr/tabi/102.png" group-title="TR | TABii SPOR",TR: Tabii Spor 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/508365
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Tabii Yedek" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/tabi/121.png" group-title="TR | TABii SPOR",TR: TRT Tabii Yedek
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/545626
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor HD+" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/tabi/121.png" group-title="TR | TABii SPOR",TR: Tabii Spor HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/458357
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 1 HD+" tvg-logo="https://uscloudpanel.com/uploads/Global/tr/tabi/101.png" group-title="TR | TABii SPOR",TR: Tabii Spor 1 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/429633
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 2 HD+" tvg-logo="https://uscloudpanel.com/uploads/Global/tr/tabi/103.png" group-title="TR | TABii SPOR",TR: Tabii Spor 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/429634
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 3 HD+" tvg-logo="https://uscloudpanel.com/uploads/Global/tr/tabi/105.png" group-title="TR | TABii SPOR",TR: Tabii Spor 3 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/429635
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 4 HD+" tvg-logo="https://uscloudpanel.com/uploads/Global/tr/tabi/107.png" group-title="TR | TABii SPOR",TR: Tabii Spor 4 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/429636
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 5 HD+" tvg-logo="https://uscloudpanel.com/uploads/Global/tr/tabi/109.png" group-title="TR | TABii SPOR",TR: Tabii Spor 5 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/429637
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 6 HD+" tvg-logo="https://uscloudpanel.com/uploads/Global/tr/tabi/111.png" group-title="TR | TABii SPOR",TR: Tabii Spor 6 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/429638
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 7 HD+" tvg-logo="https://uscloudpanel.com/uploads/Global/tr/tabi/113.png" group-title="TR | TABii SPOR",TR: Tabii Spor 7 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/460130
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 8 HD+" tvg-logo="https://uscloudpanel.com/uploads/Global/tr/tabi/115.png" group-title="TR | TABii SPOR",TR: Tabii Spor 8 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/460131
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 9 HD+" tvg-logo="https://uscloudpanel.com/uploads/Global/tr/tabi/117.png" group-title="TR | TABii SPOR",TR: Tabii Spor 9 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/460132
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 10 HD+" tvg-logo="https://uscloudpanel.com/uploads/Global/tr/tabi/119.png" group-title="TR | TABii SPOR",TR: Tabii Spor 10 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/508684
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_98.png" group-title="TR | S-SPORT",TR: S-SPORT 1 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/305
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_98.png" group-title="TR | S-SPORT",TR: S-SPORT 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/294
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 SD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_98.png" group-title="TR | S-SPORT",TR: S-SPORT 1 SD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/271
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S-SPORT 2 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_99.png" group-title="TR | S-SPORT",TR: S-SPORT 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/116073
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 2 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_99.png" group-title="TR | S-SPORT",TR: S-SPORT 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/295
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+1 Plus" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+1 Plus
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/125105
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+2 Plus" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+2 Plus
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/125106
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+3 Plus" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+3 Plus
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/125107
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+4 Plus" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+4 Plus
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/125108
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+5 Plus" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+5 Plus
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/275452
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+6 Plus" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+6 Plus
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362929
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+7 Plus" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+7 Plus
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362930
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+8 Plus" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+8 Plus
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362931
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+9 Plus" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+9 Plus
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362932
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+10 Mac Saati" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+10 Mac Saati
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362933
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 1 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_102.png" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR 1 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/298
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_102.png" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/125109
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_102.png" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/268
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 2 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_103.png" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/299
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_103.png" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/269
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 3 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_104.png" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR 3 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/300
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_104.png" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 3 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/270
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 4(maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_105.png" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 4(maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/182418
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPORT SMART 1 HD++" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_320.png" group-title="TR | SPOR",TR: SPORT SMART 1 HD++
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/297
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPORT SMART 1 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_320.png" group-title="TR | SPOR",TR: SPORT SMART 1 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/301
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1 HD" tvg-logo="https://uscloudpanel.com/uploads/logoeski/galeri_MTY0M_320.png" group-title="TR | SPOR",TR: SPOR SMART 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/272
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1 SD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_321.png" group-title="TR | SPOR",TR: SPOR SMART 1 SD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/124764
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_318.png" group-title="TR | SPOR",TR: SPOR SMART 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/69715
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPORT SMART 2 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_321.png" group-title="TR | SPOR",TR: SPORT SMART 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/302
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_330.png" group-title="TR | SPOR",TR: A SPOR HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/284
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_331.png" group-title="TR | SPOR",TR: A SPOR HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/280
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_329.png" group-title="TR | SPOR",TR: TRT SPOR HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/460530
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_329.png" group-title="TR | SPOR",TR: TRT SPOR HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/281
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR: TRT SPOR YILDIZ HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_327.png" group-title="TR | SPOR",TR: TRT SPOR YILDIZ HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/114887
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_326.png" group-title="TR | SPOR",TR: TRT SPOR YILDIZ HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/282
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 3 SPOR" tvg-logo="https://uscloudpanel.com/uploads/logoeski/galeri_MTY0M_329.png" group-title="TR | SPOR",TR: TRT 3 SPOR
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/114885
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 1 HD" tvg-logo="https://i.ibb.co/ZBSV94P/1.png" group-title="TR | SPOR",TR: FiLSPOR 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362950
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 2 HD" tvg-logo="https://i.ibb.co/jGvncbv/2.png" group-title="TR | SPOR",TR: FiLSPOR 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362951
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 3 HD" tvg-logo="https://i.ibb.co/df0GMGc/3.png" group-title="TR | SPOR",TR: FiLSPOR 3 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362952
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 4 HD" tvg-logo="https://i.ibb.co/P1sYzQz/4.png" group-title="TR | SPOR",TR: FiLSPOR 4 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362955
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 5 HD" tvg-logo="https://i.ibb.co/6sds8Xv/5.png" group-title="TR | SPOR",TR: FiLSPOR 5 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362954
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_311.png" group-title="TR | SPOR",TR: NBA TV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/296
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_311.png" group-title="TR | SPOR",TR: NBA TV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/274
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR: EDGESPORT HD+" tvg-logo="https://i.imgur.com/9DvboS2.png" group-title="TR | SPOR",TR: EDGESPORT HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362959
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT BOX HD+" tvg-logo="https://uscloudpanel.com/uploads/logoeski/galeri_MTY0M_308.png" group-title="TR | SPOR",TR: FIGHT BOX HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362958
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_314.png" group-title="TR | SPOR",TR: EUROSPORT 1 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/275
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_314.png" group-title="TR | SPOR",TR: EUROSPORT 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362948
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_312.png" group-title="TR | SPOR",TR: EUROSPORT 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/276
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_312.png" group-title="TR | SPOR",TR: EUROSPORT 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362949
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_325.png" group-title="TR | SPOR",TR: FB TV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/259
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_322.png" group-title="TR | SPOR",TR: GS TV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/277
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR: ICTiMAL TV HD+" tvg-logo="" group-title="TR | SPOR",TR: ICTiMAL TV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362963
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR: CBC SPORT HD+" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="TR | SPOR",TR: CBC SPORT HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362962
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR: SPORTSTV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_317.png" group-title="TR | SPOR",TR: SPORTSTV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/278
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TAY TV HD+" tvg-logo="https://i.imgur.com/APsIqTH.png" group-title="TR | SPOR",TR: TAY TV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362964
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TJK TV HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_309.png" group-title="TR | SPOR",TR: TJK TV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/279
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN TV FHD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: EXXEN TV FHD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/390014
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 HEVC (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 1 HEVC (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/361630
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 HD+ (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 1 HD+ (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/361629
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 HD (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 1 HD (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362939
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 SD (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 1 SD (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362940
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 2 HD+ (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 2 HD+ (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/125073
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 2 HD (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 2 HD (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362941
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 3 HD+ (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 3 HD+ (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/125857
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 3 HD (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 3 HD (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362942
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 4 HD+ (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 4 HD+ (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/141719
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 4 HD (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 4 HD (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362943
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 5 HD+ (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 5 HD+ (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/141720
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 5 HD (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 5 HD (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362944
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 6 HD+ (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 6 HD+ (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/141721
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 6 HD (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: EXXEN 6 HD (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362945
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 7 HD+ (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 7 HD+ (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/361631
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 7 HD (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: EXXEN 7 HD (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362946
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 8 HD+ (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 8 HD+ (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/141924
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 8 HD (maczamani)" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0Z_96.png" group-title="TR | EX-XEN SPORT",TR: EXXEN 8 HD (maczamani)
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362947
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX TRAVEL" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_31.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX TRAVEL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/638441
+#EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_421.png" group-title="TR | BELGESEL",TR: National Geographic HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/17121
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_1.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/488
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_424.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/110611
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_417.png" group-title="TR | BELGESEL",TR: DISCOVERY SCIENCE HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/489
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_423.png" group-title="TR | BELGESEL",TR: DISCOVERY SCIENCE HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/110612
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: DISCOVERY ID" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_413.png" group-title="TR | BELGESEL",TR: DISCOVERY ID
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/490
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY IDX HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_2.png" group-title="TR | BELGESEL",TR: DISCOVERY IDX HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/496
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_426.png" group-title="TR | BELGESEL",TR: National Geographic HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/67570
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR: NAT GEO WILD HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_420.png" group-title="TR | BELGESEL",TR: NAT GEO WILD HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/486
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR: Nat Geo Wild HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_425.png" group-title="TR | BELGESEL",TR: Nat Geo Wild HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/67569
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_408.png" group-title="TR | BELGESEL",TR: TRT BELGESEL HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/485
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_407.png" group-title="TR | BELGESEL",TR: TRT Belgesel HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/67571
+
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="TR: History HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_604.png" group-title="TR | BELGESEL",TR: History HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362973
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="TR: History HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_604.png" group-title="TR | BELGESEL",TR: History HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/497
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC TV HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_410.png" group-title="TR | BELGESEL",TR: TLC TV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/110605
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC TV" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_409.png" group-title="TR | BELGESEL",TR: TLC TV
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/4174
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_403.png" group-title="TR | BELGESEL",TR: DMAX HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/67565
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_402.png" group-title="TR | BELGESEL",TR: DMAX HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/492
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC Earth HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_418.png" group-title="TR | BELGESEL",TR: BBC Earth HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/110608
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_418.png" group-title="TR | BELGESEL",TR: BBC Earth HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/491
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR: bieN GuRME HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_395.png" group-title="TR | BELGESEL",TR: Roya GuRME HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/493
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR: bieN IZ HD+" tvg-logo="https://uscloudpanel.com/uploads/logoeski/galeri_MTY0M_400.png" group-title="TR | BELGESEL",TR: Roya IZ HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/18563
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViASAT HiSTORY HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_190.png" group-title="TR | BELGESEL",TR: ViASAT HiSTORY HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/494
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViASAT HiSTORY HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_405.png" group-title="TR | BELGESEL",TR: ViASAT HiSTORY HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/110614
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT EXPLORE HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_406.png" group-title="TR | BELGESEL",TR: VIASAT EXPLORE HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/197205
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR: YABAN TV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_399.png" group-title="TR | BELGESEL",TR: YABAN TV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/484
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TGRT BELGESEL" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_390.png" group-title="TR | BELGESEL",TR: TGRT BELGESEL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/20601
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE HD" tvg-logo="https://uscloudpanel.com/uploads/logoeski/galeri_MTY0M_392.png" group-title="TR | BELGESEL",TR: LOVE NATURE HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/67567
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_392.png" group-title="TR | BELGESEL",TR: LOVE NATURE HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/110620
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUBOX HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_394.png" group-title="TR | BELGESEL",TR: DOCUBOX HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/17179
+#EXTINF:-1 tvg-id="" tvg-name="TR: TARIH TV HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_23.png" group-title="TR | BELGESEL",TR: TARIH TV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/110617
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-name="TR: CIFTCI TV HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_26.png" group-title="TR | BELGESEL",TR: CIFTCI TV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/498
+#EXTINF:-1 tvg-id="" tvg-name="TR: TARIM TV" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_22.png" group-title="TR | BELGESEL",TR: TARIM TV
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/192916
+#EXTINF:-1 tvg-id="" tvg-name="TR: KOY TV" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_21.png" group-title="TR | BELGESEL",TR: KOY TV
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/192917
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX WILD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_36.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX WILD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/219403
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX TECH" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_39.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX TECH
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/219400
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX TURK" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_31.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX TURK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/595256
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX HISTORY" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_37.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX HISTORY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/219402
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX SPACE" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_38.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX SPACE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/219401
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX WAR" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_33.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX WAR
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/259797
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX CRIME" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_32.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX CRIME
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/264778
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX PARANORMAL" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_28.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX PARANORMAL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/271922
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX MONSTER" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_31.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX MONSTER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/470662
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX UNDERGROUND" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_30.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX UNDERGROUND
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/264779
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX DEEPWATER" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_29.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX DEEPWATER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/266802
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX LIFE" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_35.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX LIFE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/259795
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX EARTH" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_34.png" group-title="TR | BELGESEL 7/24",TR: DOCUAX EARTH
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/259796
+#EXTINF:-1 tvg-id="" tvg-name="TR: Iz Bırakanlar" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_40.png" group-title="TR | BELGESEL 7/24",TR: Iz Bırakanlar
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434516
+#EXTINF:-1 tvg-id="" tvg-name="TR: Savasın Efsaneleri" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_41.png" group-title="TR | BELGESEL 7/24",TR: Savasın Efsaneleri
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434515
+#EXTINF:-1 tvg-id="" tvg-name="TR: Antik Medeniyetler" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_42.png" group-title="TR | BELGESEL 7/24",TR: Antik Medeniyetler
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434514
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bermuda Şeytan Üçgeni" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_43.png" group-title="TR | BELGESEL 7/24",TR: Bermuda Şeytan Üçgeni
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434513
+#EXTINF:-1 tvg-id="" tvg-name="TR: Uzay Bilimi" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_44.png" group-title="TR | BELGESEL 7/24",TR: Uzay Bilimi
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434512
+#EXTINF:-1 tvg-id="" tvg-name="TR: Galaktik Düzen" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_45.png" group-title="TR | BELGESEL 7/24",TR: Galaktik Düzen
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434511
+#EXTINF:-1 tvg-id="" tvg-name="TR: Evrenin Gizemi" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_46.png" group-title="TR | BELGESEL 7/24",TR: Evrenin Gizemi
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434510
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dinazorlar Devri" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_47.png" group-title="TR | BELGESEL 7/24",TR: Dinazorlar Devri
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434509
+#EXTINF:-1 tvg-id="" tvg-name="TR: Shark TV" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_48.png" group-title="TR | BELGESEL 7/24",TR: Shark TV
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434508
+#EXTINF:-1 tvg-id="" tvg-name="TR: Okyanusun Derinlikleri" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_49.png" group-title="TR | BELGESEL 7/24",TR: Okyanusun Derinlikleri
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434507
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vahsi Serüvenler" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_50.png" group-title="TR | BELGESEL 7/24",TR: Vahsi Serüvenler
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434506
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vahsi Doğa" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_51.png" group-title="TR | BELGESEL 7/24",TR: Vahsi Doğa
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434505
+#EXTINF:-1 tvg-id="" tvg-name="TR: Hayvanlar Alemi" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_52.png" group-title="TR | BELGESEL 7/24",TR: Hayvanlar Alemi
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434504
+#EXTINF:-1 tvg-id="" tvg-name="TR: Doğa Harikaları" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_53.png" group-title="TR | BELGESEL 7/24",TR: Doğa Harikaları
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434503
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gizli Cennetler" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_54.png" group-title="TR | BELGESEL 7/24",TR: Gizli Cennetler
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434502
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dünyamız" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_55.png" group-title="TR | BELGESEL 7/24",TR: Dünyamız
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/434501
+#EXTINF:-1 tvg-id="" tvg-name="#### TURK BELGESEL ####" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_422.png" group-title="TR | BELGESEL",#### TURK BELGESEL ####
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/121
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINE6 HD" tvg-logo="http://darkteos.xyz/logo/cine6.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: CINE6 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/559681
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINE6 MAX HD" tvg-logo="http://darkteos.xyz/logo/cine6max.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: CINE6 MAX HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/559680
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVITURK HD" tvg-logo="http://darkteos.xyz/logo/tiviturk.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: TIVITURK HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/559679
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-2-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV AILE 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/363
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR: SINEMA TV HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/358
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR: SINEMA TV 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-2-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/359
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA TV ACTION HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV ACTION HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/360
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR: SINEMA TV AILE HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV AILE HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR: SINEMA TV KOMEDI HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV KOMEDI HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/364
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="TR: SINEMA TV KOMEDI 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-2-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV KOMEDI 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/365
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR: SINEMA TV YERLI  HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV YERLI  HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/366
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="TR: SINEMA TV YERLI 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-2-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV YERLI 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/367
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV 1001 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/368
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="TR: SINEMA TV 1002 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1002-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV 1002 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/369
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR: MOVİESMART TURK HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: MOVİESMART TURK HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/349
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR: MOVİESMART CLASSİC HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-classic-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: MOVİESMART CLASSİC HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/350
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="TR: MOVIESMART COCUK HD+" tvg-logo="" group-title="TR | D-SMART & TIVIBU SINEMA",TR: MOVIESMART COCUK HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/370
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: DİZİ SMART PREMIUM HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: DİZİ SMART PREMIUM HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/351
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR: DIZI SMART MAX HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: DIZI SMART MAX HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/352
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: DIZI SMART PREMIUM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: DIZI SMART PREMIUM HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/331
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR: DIZI SMART MAX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: DIZI SMART MAX HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/332
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: FX HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/354
+#EXTINF:-1 tvg-id="foxcrime.tr" tvg-name="TR: FOX CRIME HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/97/Foxcrimehd.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: FOX CRIME HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/356
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: ROYA B0X 0FFİCE 1 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_93.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA B0X 0FFİCE 1 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362968
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR: ROYA B0X 0FFİCE 2 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_92.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA B0X 0FFİCE 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362969
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR: ROYA B0X 0FFİCE 3 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_91.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA B0X 0FFİCE 3 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362970
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: ROYA M0VIES P*EMIER HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_86.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA M0VIES P*EMIER HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/312
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: ROYA MOVIES P*EMIERE 2 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_84.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA MOVIES P*EMIERE 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/317
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: ROYA M0VIES STARS HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_82.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA M0VIES STARS HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/319
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: ROYA M0VIES TURK HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_85.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA M0VIES TURK HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/316
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR: ROYA S*RIES 1 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_87.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA S*RIES 1 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/309
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR: ROYA S*RIES 2 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_88.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA S*RIES 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/308
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="TR: ROYA S*RIES 3 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_90.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA S*RIES 3 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/307
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR: ROYA S*RIES 4 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_76.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA S*RIES 4 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/306
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: ROYA MOVIES FAMILY HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_81.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA MOVIES FAMILY HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/106621
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: ROYA MOVIES ACTION HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_80.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA MOVIES ACTION HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/106622
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: ROYA M0VIES ACTI0N 2 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_83.png" group-title="TR | Roya MEDIA SINEMA",TR: ROYA M0VIES ACTI0N 2 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/318
+#EXTINF:-1 tvg-id="filmbox.tr" tvg-name="TR: FILMBOX HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: FILMBOX HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/362966
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Aamir Khan" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Aamir Khan
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610221
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Adam Sandler" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Adam Sandler
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610220
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Adrien Brody" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Adrien Brody
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610219
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Al Pacino" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Al Pacino
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610218
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Andrew Garfield" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Andrew Garfield
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610217
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Angelina Jolie" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Angelina Jolie
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610216
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Anne Hathaway" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Anne Hathaway
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610215
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Anthony Hopkins" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Anthony Hopkins
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610214
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Antonio Banderas" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Antonio Banderas
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610213
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Arnold Schwarzenegger" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Arnold Schwarzenegger
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610212
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Ashley Greene" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Ashley Greene
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610211
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Ashton Kutcher" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Ashton Kutcher
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610210
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Ben Affleck" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Ben Affleck
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610209
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Ben Stiller" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Ben Stiller
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610208
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Benedict Cumberbatch" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Benedict Cumberbatch
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610207
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Brad Pitt" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Brad Pitt
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610205
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Bradley Cooper" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Bradley Cooper
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610204
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Brendan Fraser" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Brendan Fraser
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610203
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Bruce Lee" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Bruce Lee
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610202
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Bruce Wills" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Bruce Wills
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610201
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Cameron Diaz" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Cameron Diaz
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610200
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Carmen Electra" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Carmen Electra
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610199
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Cate Blanchett" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Cate Blanchett
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610198
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Charlize Theron" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Charlize Theron
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610197
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Chris Evans" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Chris Evans
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610196
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Chris Hemsworth" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Chris Hemsworth
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610222
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Chris Pratt" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Chris Pratt
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610195
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Chris Tucker" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Chris Tucker
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610194
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Christian Bale" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Christian Bale
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610193
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Clint Eastwood" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Clint Eastwood
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610192
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Daniel Day-Lewis" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Daniel Day-Lewis
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610191
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Daniel Radcliffe" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Daniel Radcliffe
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610190
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Denzel Washington" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Denzel Washington
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610189
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Drew Barrymore" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Drew Barrymore
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610188
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Dwayne Johnson" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Dwayne Johnson
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610187
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Eddie Murphy" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Eddie Murphy
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610186
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Edward Norton" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Edward Norton
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610185
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Elijah Wood" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Elijah Wood
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610184
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Emma Stone" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Emma Stone
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610183
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Emma Watson" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Emma Watson
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610182
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Eva Mendes" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Eva Mendes
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610181
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Gary Oldman" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Gary Oldman
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610180
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX George Clooney" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX George Clooney
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610179
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Gerard Butler" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Gerard Butler
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610178
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Harrison Ford" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Harrison Ford
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610177
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Hugh Jackman" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Hugh Jackman
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610176
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jack Nicholson" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jack Nicholson
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610175
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jackie Chan" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jackie Chan
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610174
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jake Gyllenhaal" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jake Gyllenhaal
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610173
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX James McAvoy" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX James McAvoy
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610172
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jason Momoa" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jason Momoa
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610171
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jason Statham" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jason Statham
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610170
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jean Reno" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jean Reno
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610169
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jennifer Aniston" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jennifer Aniston
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610168
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jennifer Connelly" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jennifer Connelly
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610167
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jennifer Lawrence" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jennifer Lawrence
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610166
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jeremy Renner" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jeremy Renner
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610165
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jessica Alba" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jessica Alba
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610164
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jet Li" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jet Li
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610163
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jim Carrey" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jim Carrey
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610162
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Joaquin Phoenix" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Joaquin Phoenix
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610161
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jodie Foster" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jodie Foster
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610160
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX John Cusack" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX John Cusack
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610159
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Johnny Depp" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Johnny Depp
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610158
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Josh Holloway" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Josh Holloway
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610157
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Josh Hutcherson" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Josh Hutcherson
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610156
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Jude Law" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Jude Law
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610155
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Julia Roberts" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Julia Roberts
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610154
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kate Beckinsale" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Kate Beckinsale
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610153
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kate Winslet" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Kate Winslet
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610152
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Keira Knightley" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Keira Knightley
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610151
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kevin Spacey" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Kevin Spacey
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610150
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kristen Stewart" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Kristen Stewart
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610149
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kurt Russell" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Kurt Russell
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610148
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Laurence Fishburne" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Laurence Fishburne
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610147
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Leonardo Di Caprio" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Leonardo Di Caprio
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610146
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Liam Hemsworth" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Liam Hemsworth
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610145
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Mark Ruffalo" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Mark Ruffalo
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610144
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Mark Wahlberg" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Mark Wahlberg
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610143
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Marlon Brando" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Marlon Brando
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610142
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Martin Scorsese" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Martin Scorsese
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610141
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Matt Damon" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Matt Damon
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610140
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Matthew McConaughey" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Matthew McConaughey
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610139
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Megan Fox" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Megan Fox
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610138
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Mel Gibson" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Mel Gibson
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610137
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Michael Fassbender" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Michael Fassbender
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610136
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Michelle Rodriguez" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Michelle Rodriguez
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610135
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Monica Bellucci" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Monica Bellucci
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610134
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Morgan Freeman" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Morgan Freeman
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610133
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Natalie Portman" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Natalie Portman
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610132
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Nicolas Cage" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Nicolas Cage
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610131
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Nicole Kidman" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Nicole Kidman
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610130
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Norman Reedus" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Norman Reedus
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610129
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Orlando Bloom" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Orlando Bloom
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610128
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Paul Walker" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Paul Walker
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610127
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Pedro Pascal" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Pedro Pascal
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610126
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Penelope Cruz" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Penelope Cruz
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610125
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Quentin Tarantino" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Quentin Tarantino
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610124
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Rachel McAdams" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Rachel McAdams
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610123
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Robert De Niro" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Robert De Niro
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610122
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Robert Downey" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Robert Downey
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610121
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Robert Pattinson" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Robert Pattinson
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610120
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Robin Williams" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Robin Williams
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610119
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Rupert Grint" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Rupert Grint
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610118
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Russell Crowe" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Russell Crowe
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610117
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Ryan Gosling" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Ryan Gosling
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610116
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Ryan Reynolds" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Ryan Reynolds
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610115
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Samuel L Jackson" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Samuel L Jackson
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610114
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Sandra Bullock" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Sandra Bullock
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610113
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Scarlett Johansson" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Scarlett Johansson
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610112
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Sean Penn" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Sean Penn
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610111
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Sharon Stone" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Sharon Stone
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610110
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Shia Labeouf" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Shia Labeouf
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610109
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Sylvester Stallone" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Sylvester Stallone
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610108
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Taylor Lautner" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Taylor Lautner
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610107
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Tobey Maguire" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Tobey Maguire
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610106
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Tom Cruise" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Tom Cruise
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610105
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Tom Hanks" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Tom Hanks
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610104
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Tom Hardy" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Tom Hardy
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610103
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Uma Thurman" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Uma Thurman
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610102
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Van Damme" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Van Damme
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610101
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Viggo Mortensen" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Viggo Mortensen
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Vin Diesel" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Vin Diesel
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610099
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Wentworth Miller" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Wentworth Miller
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610098
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Will Smith" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Will Smith
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610097
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Willem Dafoe" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Willem Dafoe
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610096
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX William Fichtner" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX William Fichtner
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610095
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Zach Galifianakis" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE STARS 7/24",TR: FILMAX Zach Galifianakis
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/610094
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX 28 GUN/HAFTA SONRA" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX 28 GUN/HAFTA SONRA
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609153
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX 365 DAYS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX 365 DAYS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609152
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX 47 RONIN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX 47 RONIN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609151
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX AMERIKAN PASTASI" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX AMERIKAN PASTASI
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609150
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ANNABELLE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX ANNABELLE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609149
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ANT BOY" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX ANT BOY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609148
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ANT MAN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX ANT MAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609147
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX A QUIET PLACE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX A QUIET PLACE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609146
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX BACK TO THE FUTURE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX BACK TO THE FUTURE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609145
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX BAD BOYS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX BAD BOYS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609144
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX BATMAN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX BATMAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609143
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX BATTLE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX BATTLE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609142
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX BLACK PANTHER" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX BLACK PANTHER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609141
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX BUTTERFLY EFFECT" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX BUTTERFLY EFFECT
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609139
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX BLADE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX BLADE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609140
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX CAPTAIN AMERICA" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX CAPTAIN AMERICA
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609138
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX CHARLIES ANGELS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX CHARLIES ANGELS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609137
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX CHUCKY" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX CHUCKY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609136
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX COLD PREY" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX COLD PREY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609135
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX CONAN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX CONAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609134
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX CRANK" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX CRANK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609133
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX CREED" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX CREED
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609132
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX CRITTERS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX CRITTERS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609131
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX CUBE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX CUBE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609130
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX DEADPOOL" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX DEADPOOL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609129
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX DIE HARD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX DIE HARD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609128
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX DOCTOR STRANGE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX DOCTOR STRANGE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609127
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX DOLLARS BOX" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX DOLLARS BOX
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609126
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX HARRY POTTER" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX HARRY POTTER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609125
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX HELLBOY" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX HELLBOY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609124
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX HOSTEL" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX HOSTEL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609123
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX HIZLI VE OFKELI" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX HIZLI VE OFKELI
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609122
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ENOLA HOLMES" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX ENOLA HOLMES
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609121
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX EXTRACTION" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX EXTRACTION
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609120
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX FANTASTIC BEASTS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX FANTASTIC BEASTS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609119
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX FANTASTIC FOUR" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX FANTASTIC FOUR
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609118
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX FROM DUSK TILL DAWN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX FROM DUSK TILL DAWN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609117
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX FRIDAY THE 13TH" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX FRIDAY THE 13TH
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609116
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX G I JOE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX G I JOE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609115
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX GHOSTBUSTERS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX GHOSTBUSTERS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609114
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX GUARDIANS OF THE GALAXY" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX GUARDIANS OF THE GALAXY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609113
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX INDIANA JONES" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX INDIANA JONES
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609112
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX INFERNAL AFFAIRS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX INFERNAL AFFAIRS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609111
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX INSIDIOUS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX INSIDIOUS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609110
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX IP MAN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX IP MAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609109
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX IRON MAN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX IRON MAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609108
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX IT" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX IT
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609107
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX JAMES BOND" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX JAMES BOND
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609106
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX JOHN WICK" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX JOHN WICK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609105
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX JOHNNY ENGLISH" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX JOHNNY ENGLISH
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609104
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX JUMANJI" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX JUMANJI
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609103
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX KILL BILL" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX KILL BILL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609102
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX JURASSIC WORLD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX JURASSIC WORLD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609101
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX LETHAL WEAPON" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX LETHAL WEAPON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX DEEP BLUE SEA" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX DEEP BLUE SEA
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609099
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ELM SOKAGINDA KABUS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX ELM SOKAGINDA KABUS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609098
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX EVDE TEK BASINA" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX EVDE TEK BASINA
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609097
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX HANNIBAL" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX HANNIBAL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609096
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX INSURGENT" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX INSURGENT
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609095
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE MAZE RUNNER" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE MAZE RUNNER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609094
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX JARHEAD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX JARHEAD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609093
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX MEN IN BLACK" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX MEN IN BLACK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609092
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX MAD MAX" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX MAD MAX
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609091
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX YUZUKLERIN EFENDISI" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX YUZUKLERIN EFENDISI
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609090
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX MAYMUNLAR CEHENNEMI" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX MAYMUNLAR CEHENNEMI
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609089
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX NOW YOU SEE ME" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX NOW YOU SEE ME
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609088
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX PARANORMAL ACTIVITY" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX PARANORMAL ACTIVITY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609087
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX POLTERGEIST" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX POLTERGEIST
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609086
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX PIRATES OF THE CARIBBEAN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX PIRATES OF THE CARIBBEAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609085
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX RAMBO" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX RAMBO
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609084
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX RUSH HOUR" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX RUSH HOUR
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609083
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX NINJA TURTLES" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX NINJA TURTLES
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609082
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX OLUMCUL DENEY" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX OLUMCUL DENEY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609081
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX OCEANS BOX" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX OCEANS BOX
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609080
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX MISSION IMPOSSIBLE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX MISSION IMPOSSIBLE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609079
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX RIDDICK" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX RIDDICK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609078
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX RIDE ALONG" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX RIDE ALONG
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609077
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ROBOCOPS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX ROBOCOPS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609076
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ROCKY" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX ROCKY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609075
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SAW" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX SAW
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609074
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SCARY MOVİE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX SCARY MOVİE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609073
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SCREAM" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX SCREAM
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609072
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SHERLOCK HOLMES" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX SHERLOCK HOLMES
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609071
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SISTER ACT" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX SISTER ACT
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609070
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX STAR GATE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX STAR GATE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609069
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX STREET FLOW" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX STREET FLOW
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609068
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SPIDERMAN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX SPIDERMAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609067
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX STAR TREK" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX STAR TREK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609066
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX STAR WARS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX STAR WARS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609065
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SON DURAK" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX SON DURAK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609064
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SUICIDE SQUAD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX SUICIDE SQUAD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609063
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SUPERMAN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX SUPERMAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609062
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX TAKEN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX TAKEN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609061
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX TAKSI" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX TAKSI
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609060
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX TALL GIRL" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX TALL GIRL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609059
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX TASIYICI" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX TASIYICI
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609058
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX TED" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX TED
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609057
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX TEEN BEACH" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX TEEN BEACH
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609056
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX TERMINATOR" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX TERMINATOR
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609055
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE EXPENDABLES" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE EXPENDABLES
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609054
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THOR" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THOR
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609053
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX TOO OLD FOR FAIRY TALES" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX TOO OLD FOR FAIRY TALES
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609052
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE BOY" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE BOY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609051
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE KARATE KID" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE KARATE KID
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609050
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE NAKED GUN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE NAKED GUN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609049
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE BOURNE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE BOURNE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609048
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE EQUALIZER" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE EQUALIZER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609047
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE AVENGERS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE AVENGERS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609046
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX EXORCIST" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX EXORCIST
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609045
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX HOUSE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX HOUSE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609044
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX HOBBIT" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX HOBBIT
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609043
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE GODFATHER" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE GODFATHER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609042
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX HANGOVER" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX HANGOVER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609041
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE HUNGER GAMES" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE HUNGER GAMES
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609040
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX TRAIN TO BUSAN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX TRAIN TO BUSAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609039
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX TRANSFORMERS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX TRANSFORMERS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609038
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX UNBREAKABLE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX UNBREAKABLE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609037
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX WOLVERINE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX WOLVERINE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609036
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE LIBRARIAN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE LIBRARIAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609035
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE MATRIX" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE MATRIX
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609034
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE TAMING OF THE SHREWD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE TAMING OF THE SHREWD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609033
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE TWILIGHT" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE TWILIGHT
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609032
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE WITCHES" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE WITCHES
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609031
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE ROBERT LANGDON" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE ROBERT LANGDON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609030
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX THE MUMMY" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX THE MUMMY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609029
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX YARATIK" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX YARATIK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609028
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX UNDERWORLD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX UNDERWORLD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609027
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX VAN WILDER" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX VAN WILDER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609026
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX VENOM" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX VENOM
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609025
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX WINDSTORM" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX WINDSTORM
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609024
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX WITH IN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX WITH IN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609023
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX WONDER WOMEN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX WONDER WOMEN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609022
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX WRONG TURN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX WRONG TURN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609021
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX X-MEN" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX X-MEN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609020
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX YENILMEZ" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX YENILMEZ
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609019
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ZOMBIES" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX ZOMBIES
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609018
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ZOMBIELAND" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | CINE BOXSET 7/24",TR: FILMAX ZOMBIELAND
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609017
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kemal Sunal 1" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Kemal Sunal 1
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/586235
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kemal Sunal 2" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Kemal Sunal 2
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/586236
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kemal Sunal 3" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Kemal Sunal 3
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/586237
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Cuneyt Arkın 1" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Cuneyt Arkın 1
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/587054
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Cuneyt Arkın 2" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Cuneyt Arkın 2
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/587055
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Cuneyt Arkın 3" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Cuneyt Arkın 3
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/587056
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Cuneyt Arkın 4" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Cuneyt Arkın 4
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/587201
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Sener Sen" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Sener Sen
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/586239
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Zeki ve Metin" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Zeki ve Metin
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/587057
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 1" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 1
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/586238
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 2" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 2
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/586320
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 3" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 3
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/586321
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 4" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 4
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/586839
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 5" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 5
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/586840
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 6" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 6
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/586841
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 7" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 7
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/586842
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 8" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 8
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/586843
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 9" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 9
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/587202
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 10" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 10
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/587203
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 11" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 11
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/587220
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 12" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 12
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/587221
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 13" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 13
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/587222
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 14" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 14
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/587223
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam 15" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | YESILCAM SINEMA 7/24",TR: FILMAX Yesilcam 15
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/587224
+#EXTINF:-1 tvg-id="12" tvg-name="TR: FILMAX HBOMAX" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX HBOMAX
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/571532
+#EXTINF:-1 tvg-id="" tvg-name="TR: HANGOVER" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: HANGOVER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435904
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAD MAX" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: MAD MAX
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435903
+#EXTINF:-1 tvg-id="" tvg-name="TR: ROBOCOP" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: ROBOCOP
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435902
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIE HARD" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: DIE HARD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435901
+#EXTINF:-1 tvg-id="" tvg-name="TR: LETHAL WEAPON" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: LETHAL WEAPON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435900
+#EXTINF:-1 tvg-id="" tvg-name="TR: ROCKY" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: ROCKY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435899
+#EXTINF:-1 tvg-id="" tvg-name="TR: JARHEAD" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: JARHEAD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435898
+#EXTINF:-1 tvg-id="" tvg-name="TR: INFERNAL AFFAIRS" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: INFERNAL AFFAIRS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435897
+#EXTINF:-1 tvg-id="" tvg-name="TR: CRITTERS" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: CRITTERS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435896
+#EXTINF:-1 tvg-id="" tvg-name="TR: CONAN" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: CONAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435895
+#EXTINF:-1 tvg-id="" tvg-name="TR: BACK TO THE FUTURE" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: BACK TO THE FUTURE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435894
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAXI" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: TAXI
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435893
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRANSPORTER" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: TRANSPORTER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435892
+#EXTINF:-1 tvg-id="" tvg-name="TR: OCEAN'S ELEVEN" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: OCEAN'S ELEVEN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435891
+#EXTINF:-1 tvg-id="" tvg-name="TR: BUTTERFLY EFFECT" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: BUTTERFLY EFFECT
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435890
+#EXTINF:-1 tvg-id="" tvg-name="TR: THE MUMMY" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: THE MUMMY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435889
+#EXTINF:-1 tvg-id="" tvg-name="TR: FINAL DESTINATION" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: FINAL DESTINATION
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435888
+#EXTINF:-1 tvg-id="" tvg-name="TR: POLTERGEIST" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: POLTERGEIST
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435887
+#EXTINF:-1 tvg-id="" tvg-name="TR: JAWS" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: JAWS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435886
+#EXTINF:-1 tvg-id="" tvg-name="TR: CUBE" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: CUBE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435885
+#EXTINF:-1 tvg-id="" tvg-name="TR: COLD PREY" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: COLD PREY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435884
+#EXTINF:-1 tvg-id="" tvg-name="TR: DEEP BLUE SEA" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: DEEP BLUE SEA
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435883
+#EXTINF:-1 tvg-id="" tvg-name="TR: HANNIBAL" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: HANNIBAL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435882
+#EXTINF:-1 tvg-id="" tvg-name="TR: PARANORMAL ACTIVITY" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: PARANORMAL ACTIVITY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435881
+#EXTINF:-1 tvg-id="" tvg-name="TR: HOSTEL" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: HOSTEL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435880
+#EXTINF:-1 tvg-id="" tvg-name="TR: YOU SEE ME" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: YOU SEE ME
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435879
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAKEN" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: TAKEN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435878
+#EXTINF:-1 tvg-id="" tvg-name="TR: THE EQUALIZER" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: THE EQUALIZER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435877
+#EXTINF:-1 tvg-id="" tvg-name="TR: BAD BOYS" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: BAD BOYS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435876
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOURNE" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: BOURNE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435875
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXTRACTION" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: EXTRACTION
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435874
+#EXTINF:-1 tvg-id="" tvg-name="TR: KILL BILL" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: KILL BILL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435873
+#EXTINF:-1 tvg-id="" tvg-name="TR: IP MAN" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: IP MAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435872
+#EXTINF:-1 tvg-id="" tvg-name="TR: CREED" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: CREED
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435871
+#EXTINF:-1 tvg-id="" tvg-name="TR: UNDISPUTED" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: UNDISPUTED
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435870
+#EXTINF:-1 tvg-id="" tvg-name="TR: NIGHT at the MUSEUM" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: NIGHT at the MUSEUM
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435869
+#EXTINF:-1 tvg-id="" tvg-name="TR: GHOST BUSTERS" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: GHOST BUSTERS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435868
+#EXTINF:-1 tvg-id="" tvg-name="TR: JUMANJI" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: JUMANJI
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435867
+#EXTINF:-1 tvg-id="" tvg-name="TR: HELLBOY" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: HELLBOY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435866
+#EXTINF:-1 tvg-id="" tvg-name="TR: RIDDICK" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: RIDDICK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435865
+#EXTINF:-1 tvg-id="" tvg-name="TR: HUNGER GAMES" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: HUNGER GAMES
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435864
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIVERGENT" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: DIVERGENT
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435863
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEN in BLACK" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: MEN in BLACK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435862
+#EXTINF:-1 tvg-id="" tvg-name="TR: xXx" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: xXx
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435861
+#EXTINF:-1 tvg-id="" tvg-name="TR: VENOM" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: VENOM
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435860
+#EXTINF:-1 tvg-id="" tvg-name="TR: FANTASTIC FOUR" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: FANTASTIC FOUR
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435859
+#EXTINF:-1 tvg-id="" tvg-name="TR: IRON MAN" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: IRON MAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435858
+#EXTINF:-1 tvg-id="" tvg-name="TR: THOR" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: THOR
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435857
+#EXTINF:-1 tvg-id="" tvg-name="TR: AVENGERS" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: AVENGERS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435856
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANT-MAN" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: ANT-MAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435855
+#EXTINF:-1 tvg-id="" tvg-name="TR: GUARDIAN of GALAXY" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: GUARDIAN of GALAXY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435854
+#EXTINF:-1 tvg-id="" tvg-name="TR: CAPTAIN AMERICA" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: CAPTAIN AMERICA
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435853
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCTOR STRANGE" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: DOCTOR STRANGE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435852
+#EXTINF:-1 tvg-id="" tvg-name="TR: DEADPOOL" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: DEADPOOL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435851
+#EXTINF:-1 tvg-id="" tvg-name="TR: X-MEN" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: X-MEN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435850
+#EXTINF:-1 tvg-id="" tvg-name="TR: HOBBIT" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: HOBBIT
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435849
+#EXTINF:-1 tvg-id="" tvg-name="TR: LORD of the RINGS" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: LORD of the RINGS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435848
+#EXTINF:-1 tvg-id="" tvg-name="TR: FANTASTIC BEASTS" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: FANTASTIC BEASTS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435847
+#EXTINF:-1 tvg-id="" tvg-name="TR: ALIEN" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: ALIEN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435846
+#EXTINF:-1 tvg-id="" tvg-name="TR: JURASSIC WORLD" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: JURASSIC WORLD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435845
+#EXTINF:-1 tvg-id="" tvg-name="TR: SUPERMAN" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: SUPERMAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435844
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRANSFORMERS" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: TRANSFORMERS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435843
+#EXTINF:-1 tvg-id="" tvg-name="TR: TERMINATOR" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: TERMINATOR
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435842
+#EXTINF:-1 tvg-id="" tvg-name="TR: BATMAN" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: BATMAN
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435841
+#EXTINF:-1 tvg-id="" tvg-name="TR: UNDERWORLD" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: UNDERWORLD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435840
+#EXTINF:-1 tvg-id="" tvg-name="TR: MATRIX" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: MATRIX
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435839
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLADE" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: BLADE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435838
+#EXTINF:-1 tvg-id="" tvg-name="TR: JOHN WICK" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: JOHN WICK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435837
+#EXTINF:-1 tvg-id="" tvg-name="TR: HARRY POTTER 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: HARRY POTTER 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142130
+#EXTINF:-1 tvg-id="" tvg-name="TR: 007 JAMES BOND 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: 007 JAMES BOND 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142129
+#EXTINF:-1 tvg-id="" tvg-name="TR: ROCKY BALBOA 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: ROCKY BALBOA 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142131
+#EXTINF:-1 tvg-id="" tvg-name="TR: RECEP IVEDIK 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: RECEP IVEDIK 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142132
+#EXTINF:-1 tvg-id="" tvg-name="TR: ALACAKARANLIK EFSANESI 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: ALACAKARANLIK EFSANESI 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142133
+#EXTINF:-1 tvg-id="" tvg-name="TR: ÖLÜMCÜL DENEY 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: ÖLÜMCÜL DENEY 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142134
+#EXTINF:-1 tvg-id="" tvg-name="TR: HOBBIT 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: HOBBIT 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142135
+#EXTINF:-1 tvg-id="" tvg-name="TR: SUPERMAN 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: SUPERMAN 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142136
+#EXTINF:-1 tvg-id="" tvg-name="TR: ORUMCEK ADAM 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: ORUMCEK ADAM 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142137
+#EXTINF:-1 tvg-id="" tvg-name="TR: BATMAN 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: BATMAN 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142138
+#EXTINF:-1 tvg-id="" tvg-name="TR: KARAYIP KORSANLARI 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: KARAYIP KORSANLARI 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142139
+#EXTINF:-1 tvg-id="" tvg-name="TR: ZOR OLUM 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: ZOR OLUM 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142140
+#EXTINF:-1 tvg-id="" tvg-name="TR: SON DURAK 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: SON DURAK 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142142
+#EXTINF:-1 tvg-id="" tvg-name="TR: POLIS AKEDEMISI 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: POLIS AKEDEMISI 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142143
+#EXTINF:-1 tvg-id="" tvg-name="TR: SAW 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: SAW 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142144
+#EXTINF:-1 tvg-id="" tvg-name="TR: TERMINATOR 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: TERMINATOR 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142145
+#EXTINF:-1 tvg-id="" tvg-name="TR: X-MEN TV 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: X-MEN TV 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142146
+#EXTINF:-1 tvg-id="" tvg-name="TR: 13.CUMA 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: 13.CUMA 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142147
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRANSFORMERS 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: TRANSFORMERS 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142148
+#EXTINF:-1 tvg-id="" tvg-name="TR: MUMYA 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: MUMYA 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142149
+#EXTINF:-1 tvg-id="" tvg-name="TR: THE BOURNE 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: THE BOURNE 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142150
+#EXTINF:-1 tvg-id="" tvg-name="TR: THE MATRİX 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: THE MATRİX 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142151
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TREK 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: STAR TREK 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142152
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAYMUNLAR CEHENEMI 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: MAYMUNLAR CEHENEMI 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142153
+#EXTINF:-1 tvg-id="" tvg-name="TR: ALIEN VS PREDATOR 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: ALIEN VS PREDATOR 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142154
+#EXTINF:-1 tvg-id="" tvg-name="TR: RAMBO 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: RAMBO 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142155
+#EXTINF:-1 tvg-id="" tvg-name="TR: MASKELI BESLER 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: MASKELI BESLER 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142156
+#EXTINF:-1 tvg-id="" tvg-name="TR: CILGIN DERSHANE 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: CILGIN DERSHANE 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142157
+#EXTINF:-1 tvg-id="" tvg-name="TR: KARANLIKLAR ULKESI 7/24" tvg-logo="" group-title="TR | CINE BOXSET 7/24",TR: KARANLIKLAR ULKESI 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142158
+#EXTINF:-1 tvg-id="" tvg-name="TR: Real BOX Animasyon" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: Real BOX Animasyon
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/436338
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arena BOX Animasyon" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: Arena BOX Animasyon
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/436314
+#EXTINF:-1 tvg-id="" tvg-name="TR: TurkBox Animasyon" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: TurkBox Animasyon
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/436178
+#EXTINF:-1 tvg-id="" tvg-name="TR: USK Vizyon Cinema Animasyon" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: USK Vizyon Cinema Animasyon
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/436301
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vizyon HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Vizyon HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435906
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vizyon 2 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Vizyon 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435907
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yerli Vizyon 1 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Yerli Vizyon 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435905
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yerli 1 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Yerli 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435908
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yerli 2 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Yerli 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435909
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yerli 3 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Yerli 3 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435910
+#EXTINF:-1 tvg-id="" tvg-name="TR: Premier 1 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Premier 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435937
+#EXTINF:-1 tvg-id="" tvg-name="TR: Premier 2 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Premier 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435938
+#EXTINF:-1 tvg-id="" tvg-name="TR: Premier 3 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Premier 3 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435939
+#EXTINF:-1 tvg-id="" tvg-name="TR: Premier 4 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Premier 4 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435940
+#EXTINF:-1 tvg-id="" tvg-name="TR: Premier 5 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Premier 5 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435941
+#EXTINF:-1 tvg-id="" tvg-name="TR: Loca 1 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Loca 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435942
+#EXTINF:-1 tvg-id="" tvg-name="TR: Loca 2 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Loca 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435943
+#EXTINF:-1 tvg-id="" tvg-name="TR: Loca 3 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Loca 3 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435944
+#EXTINF:-1 tvg-id="" tvg-name="TR: Loca 4 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Loca 4 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435945
+#EXTINF:-1 tvg-id="" tvg-name="TR: Loca 5 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Loca 5 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435946
+#EXTINF:-1 tvg-id="" tvg-name="TR: Animasyon HD" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: Animasyon HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435947
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aksiyon HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Aksiyon HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435911
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aksiyon 2 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Aksiyon 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435912
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nostalji  HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Nostalji  HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435936
+#EXTINF:-1 tvg-id="" tvg-name="TR: Savaş HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Savaş HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435935
+#EXTINF:-1 tvg-id="" tvg-name="TR: Western HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Western HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435933
+#EXTINF:-1 tvg-id="" tvg-name="TR: Western 2 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Western 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435934
+#EXTINF:-1 tvg-id="" tvg-name="TR: Uzakdoğu HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Uzakdoğu HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435931
+#EXTINF:-1 tvg-id="" tvg-name="TR: Uzakdoğu 2 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Uzakdoğu 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435932
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dram 1 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Dram 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435929
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dram 2 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Dram 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435930
+#EXTINF:-1 tvg-id="" tvg-name="TR: IMDB  HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: IMDB  HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435928
+#EXTINF:-1 tvg-id="" tvg-name="TR: Romantik HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Romantik HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435926
+#EXTINF:-1 tvg-id="" tvg-name="TR: Romantik 2 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Romantik 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435927
+#EXTINF:-1 tvg-id="" tvg-name="TR: Komedi HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Komedi HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435924
+#EXTINF:-1 tvg-id="" tvg-name="TR: Komedi 2 HD " tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Komedi 2 HD 
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435925
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Netflix HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435922
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix 2 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Netflix 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435923
+#EXTINF:-1 tvg-id="" tvg-name="TR: Macera HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Macera HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435920
+#EXTINF:-1 tvg-id="" tvg-name="TR: Macera 2 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Macera 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435921
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gerilim HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Gerilim HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435919
+#EXTINF:-1 tvg-id="" tvg-name="TR: Korku HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Korku HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435917
+#EXTINF:-1 tvg-id="" tvg-name="TR: Korku 2  HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Korku 2  HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435918
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bilimkurgu HD " tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Bilimkurgu HD 
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435915
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bilimkurgu 2 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Bilimkurgu 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435916
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fantasy HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Fantasy HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435913
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fantasy 2 HD" tvg-logo="" group-title="TR | CINE BOX 7/24",TR: Fantasy 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435914
+#EXTINF:-1 tvg-id="" tvg-name="TR: Scarlett Johansson" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Scarlett Johansson
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435836
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ryan Reynolds" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Ryan Reynolds
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435835
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nicolas Cage" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Nicolas Cage
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435834
+#EXTINF:-1 tvg-id="" tvg-name="TR: Matthew McConaughey" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Matthew McConaughey
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435833
+#EXTINF:-1 tvg-id="" tvg-name="TR: Mark Wahlberg" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Mark Wahlberg
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435832
+#EXTINF:-1 tvg-id="" tvg-name="TR: Leonardo DiCaprio" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Leonardo DiCaprio
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435831
+#EXTINF:-1 tvg-id="" tvg-name="TR: Keanu Reeves" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Keanu Reeves
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435830
+#EXTINF:-1 tvg-id="" tvg-name="TR: Johnny Depp" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Johnny Depp
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435829
+#EXTINF:-1 tvg-id="" tvg-name="TR: Jason Momoa" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Jason Momoa
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435828
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dwayne Johnson" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Dwayne Johnson
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435827
+#EXTINF:-1 tvg-id="" tvg-name="TR: Christian Bale" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Christian Bale
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435826
+#EXTINF:-1 tvg-id="" tvg-name="TR: Chris Hemsworth" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Chris Hemsworth
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435825
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bruce  Wills" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Bruce  Wills
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435824
+#EXTINF:-1 tvg-id="" tvg-name="TR: Brad Pitt" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Brad Pitt
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435823
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arnold Schwarzenegger" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Arnold Schwarzenegger
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435822
+#EXTINF:-1 tvg-id="" tvg-name="TR: Angelina Jolie" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: Angelina Jolie
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/435821
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRUCE LEE 7/24" tvg-logo="" group-title="TR | CINE STARS 7/24",TR: BRUCE LEE 7/24
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/142126
+#EXTINF:-1 tvg-id="13" tvg-name="TR: FILMAX NETFLIX" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX NETFLIX
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/185254
+#EXTINF:-1 tvg-id="11" tvg-name="TR: FILMAX DISNEY" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX DISNEY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/259605
+#EXTINF:-1 tvg-id="10" tvg-name="TR: FILMAX AMAZON PRIME" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX AMAZON PRIME
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/259606
+#EXTINF:-1 tvg-id="18" tvg-name="TR: FILMAX MARVEL" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX MARVEL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/340368
+#EXTINF:-1 tvg-id="14" tvg-name="TR: FILMAX IMDB TOP" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX IMDB TOP
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/215167
+#EXTINF:-1 tvg-id="43" tvg-name="TR: FILMAX GOLD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX GOLD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/389
+#EXTINF:-1 tvg-id="35" tvg-name="TR: FILMAX BILIMKURGU" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX BILIMKURGU
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/214621
+#EXTINF:-1 tvg-id="34" tvg-name="TR: FILMAX AKSIYON" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX AKSIYON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/385
+#EXTINF:-1 tvg-id="19" tvg-name="TR: FILMAX TURK" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX TURK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/387
+#EXTINF:-1 tvg-id="33" tvg-name="TR: FILMAX AILE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX AILE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/214620
+#EXTINF:-1 tvg-id="40" tvg-name="TR: FILMAX MACERA" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX MACERA
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/382
+#EXTINF:-1 tvg-id="39" tvg-name="TR: FILMAX KORKU" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX KORKU
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/383
+#EXTINF:-1 tvg-id="38" tvg-name="TR: FILMAX KOMEDI" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX KOMEDI
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/388
+#EXTINF:-1 tvg-id="37" tvg-name="TR: FILMAX GERILIM" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX GERILIM
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/215164
+#EXTINF:-1 tvg-id="41" tvg-name="TR: FILMAX ROMANTIK" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX ROMANTIK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/215165
+#EXTINF:-1 tvg-id="36" tvg-name="TR: FILMAX DRAM" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX DRAM
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/113523
+#EXTINF:-1 tvg-id="42" tvg-name="TR: FILMAX SAVAS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX SAVAS
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/215166
+#EXTINF:-1 tvg-id="45" tvg-name="TR: FILMAX ANIMASYON 1" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX ANIMASYON 1
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/594644
+#EXTINF:-1 tvg-id="45" tvg-name="TR: FILMAX ANIMASYON 2" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: FILMAX ANIMASYON 2
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/594645
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: ROYA B0X 0FFİCE 1 HD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/36/Image/box_office1_205x150_2022.png" group-title="TR | SINEMA 7/24",TR: ROYA B0X 0FFİCE 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/313
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR: ROYA B0X 0FFİCE 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Box_Office_2_TR_logo.png" group-title="TR | SINEMA 7/24",TR: ROYA B0X 0FFİCE 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/314
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR: ROYA B0X 0FFİCE 3 HD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png" group-title="TR | SINEMA 7/24",TR: ROYA B0X 0FFİCE 3 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/315
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Orjinal HD" tvg-logo="" group-title="TR | SINEMA 7/24",TR: MAX Orjinal HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/10842
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 2 HD" tvg-logo="" group-title="TR | SINEMA 7/24",TR: MAX Vizyon 2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/10846
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 3 HD" tvg-logo="" group-title="TR | SINEMA 7/24",TR: MAX Vizyon 3 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/10847
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="" group-title="TR | SINEMA 7/24",TR: MAX STAR WARS HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/10850
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="" group-title="TR | SINEMA 7/24",TR: MAX TURK HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/10851
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="" group-title="TR | SINEMA 7/24",TR: MAX GOLD HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/10853
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA AKSIYON HD" tvg-logo="" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA AKSIYON HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/335
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX PREMIERE" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA 7/24",TR: REDBOX PREMIERE
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/386
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX VIZYON 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA 7/24",TR: REDBOX VIZYON 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/390
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX VIZYON 2  HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA 7/24",TR: REDBOX VIZYON 2  HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/396
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX SINEMA TURK 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA 7/24",TR: REDBOX SINEMA TURK 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/391
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX SINEMA TURK  2 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA 7/24",TR: REDBOX SINEMA TURK  2 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/399
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX ACTIE 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA 7/24",TR: REDBOX ACTIE 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/392
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX BILIMKURGU 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA 7/24",TR: REDBOX BILIMKURGU 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/393
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX HORROR 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA 7/24",TR: REDBOX HORROR 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/394
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX MIX 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA 7/24",TR: REDBOX MIX 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/395
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX DRAMA HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA 7/24",TR: REDBOX DRAMA HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/398
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK ANIMASYON" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: DINAMIK ANIMASYON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/185231
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD ANIMASYON" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: ULTRA HD ANIMASYON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/185252
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA ANIMASYON" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: ULTRA ANIMASYON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/185305
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM ANIMASYON" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: DREAM ANIMASYON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/185278
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE INFO" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/boxoffice1.png" group-title="TR | BOX OFFICE",TR: BOX OFFICE INFO
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/342365
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 1" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/boxoffice1.png" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 1
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/342366
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 2" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/boxoffice1.png" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 2
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/342367
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 3" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/boxoffice1.png" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 3
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/342368
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 4" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/boxoffice1.png" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 4
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/342369
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 5" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/boxoffice1.png" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 5
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/342370
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 6" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/boxoffice1.png" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 6
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/342371
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 7" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/boxoffice1.png" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 7
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/342372
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 8" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/boxoffice1.png" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 8
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/342373
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 9" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/boxoffice1.png" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 9
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/342374
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 10" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/boxoffice1.png" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 10
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/342375
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARENABOX ANIMASYON" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR | ANIMASYON SINEMA",TR: ARENABOX ANIMASYON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420161
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIBERBOX ANIMASYON HD" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: FIBERBOX ANIMASYON HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420172
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEGA BOX ANIMASYON" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR | ANIMASYON SINEMA",TR: MEGA BOX ANIMASYON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420163
+#EXTINF:-1 tvg-id="" tvg-name="TR: PROTURK ANIMASYON" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR | ANIMASYON SINEMA",TR: PROTURK ANIMASYON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420159
+#EXTINF:-1 tvg-id="" tvg-name="TR: REAL BOX ANIMASYON" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR | ANIMASYON SINEMA",TR: REAL BOX ANIMASYON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420162
+#EXTINF:-1 tvg-id="" tvg-name="TR: USK VIZYON ANIMASYON" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="TR | ANIMASYON SINEMA",TR: USK VIZYON ANIMASYON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420160
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIGIMAX ANIMASYON" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: DIGIMAX ANIMASYON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420171
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAGICBOX ANIMASYON" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: MAGICBOX ANIMASYON
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420167
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ANIMASYON 1" tvg-logo="https://i.imgur.com/JSCTtjg.png" group-title="TR | ANIMASYON SINEMA",TR: ENO ANIMASYON 1
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420164
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ANIMASYON 2" tvg-logo="https://i.imgur.com/JSCTtjg.png" group-title="TR | ANIMASYON SINEMA",TR: ENO ANIMASYON 2
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420165
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ANIMASYON 3" tvg-logo="https://i.imgur.com/JSCTtjg.png" group-title="TR | ANIMASYON SINEMA",TR: ENO ANIMASYON 3
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420166
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME ANIMASYON 1" tvg-logo="https://lo1.in/trk/flg.png" group-title="TR | ANIMASYON SINEMA",TR: CINETIME ANIMASYON 1
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420168
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME ANIMASYON 2" tvg-logo="https://lo1.in/trk/flg.png" group-title="TR | ANIMASYON SINEMA",TR: CINETIME ANIMASYON 2
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420169
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME ANIMASYON 3" tvg-logo="https://lo1.in/trk/flg.png" group-title="TR | ANIMASYON SINEMA",TR: CINETIME ANIMASYON 3
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420170
+#EXTINF:-1 tvg-id="" tvg-name="TR: BONUS ANIMASYON 1" tvg-logo="https://www.linkpicture.com/q/IVosjG_1.jpg" group-title="TR | ANIMASYON SINEMA",TR: BONUS ANIMASYON 1
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420173
+#EXTINF:-1 tvg-id="" tvg-name="TR: BONUS ANIMASYON 2" tvg-logo="https://www.linkpicture.com/q/IVosjG_1.jpg" group-title="TR | ANIMASYON SINEMA",TR: BONUS ANIMASYON 2
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420174
+#EXTINF:-1 tvg-id="" tvg-name="TR: BONUS ANIMASYON 3" tvg-logo="https://www.linkpicture.com/q/IVosjG_1.jpg" group-title="TR | ANIMASYON SINEMA",TR: BONUS ANIMASYON 3
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420175
+#EXTINF:-1 tvg-id="" tvg-name="TR: SEMBOL ANIMASYON 2" tvg-logo="https://www.linkpicture.com/q/IVosjG.jpg" group-title="TR | ANIMASYON SINEMA",TR: SEMBOL ANIMASYON 2
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420177
+#EXTINF:-1 tvg-id="" tvg-name="TR: US ANIMASYON 1 HD" tvg-logo="https://www.linkpicture.com/q/IVosjG.jpg" group-title="TR | ANIMASYON SINEMA",TR: US ANIMASYON 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420178
+#EXTINF:-1 tvg-id="" tvg-name="TR: SEMBOL ANIMASYON 1" tvg-logo="https://www.linkpicture.com/q/IVosjG_1.jpg" group-title="TR | ANIMASYON SINEMA",TR: SEMBOL ANIMASYON 1
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420176
+#EXTINF:-1 tvg-id="" tvg-name="TR: US ANIMASYON 2" tvg-logo="https://www.linkpicture.com/q/IVosjG.jpg" group-title="TR | ANIMASYON SINEMA",TR: US ANIMASYON 2
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420179
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Animasyon" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: NETFLIX Animasyon
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/419744
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Animasyon" tvg-logo="" group-title="TR | ANIMASYON SINEMA",TR: Cinemaximum Animasyon
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/419715
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_362.png" group-title="TR | HABER",TR: TRT HABER HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/418
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_379.png" group-title="TR | HABER",TR: TRT HABER HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/403
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABER TURK HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_358.png" group-title="TR | HABER",TR: HABER TURK HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/419
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABER TURK HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_376.png" group-title="TR | HABER",TR: HABER TURK HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/404
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_361.png" group-title="TR | HABER",TR: CNN TURK HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/423
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_381.png" group-title="TR | HABER",TR: CNN TURK HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/412
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV HABER HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_360.png" group-title="TR | HABER",TR: NTV HABER HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/406
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV HABER HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_378.png" group-title="TR | HABER",TR: NTV HABER HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/405
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_359.png" group-title="TR | HABER",TR: A HABER HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/417
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: GLOBAL HABER HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_384.png" group-title="TR | HABER",TR: GLOBAL HABER HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/422
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: GLOBAL HABER HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_383.png" group-title="TR | HABER",TR: GLOBAL HABER HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/411
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_350.png" group-title="TR | HABER",TR: HALK TV HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/415
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_351.png" group-title="TR | HABER",TR: HALK TV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/185656
+#EXTINF:-1 tvg-id="tele1.tr" tvg-name="TR: TELE 1 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_363.png" group-title="TR | HABER",TR: TELE 1 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/4812
+#EXTINF:-1 tvg-id="tele1.tr" tvg-name="TR: TELE 1 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_356.png" group-title="TR | HABER",TR: TELE 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/193948
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNBC E" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_57.png" group-title="TR | HABER",TR: CNBC E
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/420801
+#EXTINF:-1 tvg-id="krt.tr" tvg-name="TR: KRT TV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_373.png" group-title="TR | HABER",TR: KRT TV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/416
+#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU TV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0N_1119.png" group-title="TR | HABER",TR: SOZCU TV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/269066
+#EXTINF:-1 tvg-id="" tvg-name="TR: FLASH HABER HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_339.png" group-title="TR | HABER",TR: FLASH HABER HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/277067
+#EXTINF:-1 tvg-id="" tvg-name="TR: BALKAN TURK TV" tvg-logo="" group-title="TR | HABER",TR: BALKAN TURK TV
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/609688
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="TR: ULKETV HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_368.png" group-title="TR | HABER",TR: ULKETV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/401
+#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TR: TV 100 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_349.png" group-title="TR | HABER",TR: TV 100 HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/414
+#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TR: TV 100 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_374.png" group-title="TR | HABER",TR: TV 100 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/186669
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL ON6 HABER" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_59.png" group-title="TR | HABER",TR: KANAL ON6 HABER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/280698
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL ON6 HABER HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_60.png" group-title="TR | HABER",TR: KANAL ON6 HABER HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/280720
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR: Bloomberg HT" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_364.png" group-title="TR | HABER",TR: Bloomberg HT
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/7554
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: KANAL 24 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_372.png" group-title="TR | HABER",TR: KANAL 24 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/408
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TGRT HABER HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_369.png" group-title="TR | HABER",TR: TGRT HABER HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/407
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV NET HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_121.png" group-title="TR | HABER",TR: TV NET HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/256
+#EXTINF:-1 tvg-id="apara.tr" tvg-name="TR: A PARA HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_338.png" group-title="TR | HABER",TR: A PARA HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/410
+#EXTINF:-1 tvg-id="apara.tr" tvg-name="TR: A PARA HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_338.png" group-title="TR | HABER",TR: A PARA HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/421
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0N_1551.png" group-title="TR | HABER",TR: 360 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/409
+#EXTINF:-1 tvg-id="anews.tr" tvg-name="TR: A NEWS HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_news_tr.png" group-title="TR | HABER",TR: A NEWS HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/413
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 3" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_63.png" group-title="TR | HABER",TR: BRT 3
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/114884
+#EXTINF:-1 tvg-id="ekoturk.tr" tvg-name="TR: EKOTURK TV" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_62.png" group-title="TR | HABER",TR: EKOTURK TV
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/123363
+#EXTINF:-1 tvg-id="" tvg-name="TR: FLASH TV" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_138.png" group-title="TR | HABER",TR: FLASH TV
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/179606
+#EXTINF:-1 tvg-id="" tvg-name="TR: VATAN TV" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_145.png" group-title="TR | HABER",TR: VATAN TV
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/5147
+#EXTINF:-1 tvg-id="uzay.tr" tvg-name="TR: UZAY HABER" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_340.png" group-title="TR | HABER",TR: UZAY HABER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/402
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="TR: ULUSAL KANAL" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_365.png" group-title="TR | HABER",TR: ULUSAL KANAL
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/7548
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIDER HABER" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_56.png" group-title="TR | HABER",TR: LIDER HABER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/472401
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ekol TV" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_58.png" group-title="TR | HABER",TR: Ekol TV
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/404559
+#EXTINF:-1 tvg-id="" tvg-name="TR: Meltem TV" tvg-logo="" group-title="TR | HABER",TR: Meltem TV
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/57556
+#EXTINF:-1 tvg-id="" tvg-name="TR: TH TURKHABER" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY3N_61.png" group-title="TR | HABER",TR: TH TURKHABER
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/185655
+#EXTINF:-1 tvg-id="" tvg-name="#### HABER KANALLARI ####" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY0M_380.png" group-title="TR | HABER",#### HABER KANALLARI ####
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/120
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo GUNEY" tvg-logo="" group-title="TR | MUZIK",TR: Radyo GUNEY
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/402097
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK TAPTAZE HD" tvg-logo="" group-title="TR | MUZIK",TR: POWER TURK TAPTAZE HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/594660
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK SLOW HD" tvg-logo="" group-title="TR | MUZIK",TR: POWER TURK SLOW HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/594659
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK AKUSTIK HD" tvg-logo="" group-title="TR | MUZIK",TR: POWER TURK AKUSTIK HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/594658
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER LOVE HD" tvg-logo="" group-title="TR | MUZIK",TR: POWER LOVE HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/594657
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER DANCE HD" tvg-logo="" group-title="TR | MUZIK",TR: POWER DANCE HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/594656
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR 1 DANCE HD" tvg-logo="" group-title="TR | MUZIK",TR: NR 1 DANCE HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/594655
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR 1 DAMAR HD" tvg-logo="" group-title="TR | MUZIK",TR: NR 1 DAMAR HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/594654
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR 1 ASK HD" tvg-logo="" group-title="TR | MUZIK",TR: NR 1 ASK HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/594653
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="TR: TRT MUZiK HD+" tvg-logo="https://commons/thumb/f/f3/Logo_UEFA_Champions_League.png/220px-Logo_UEFA_Champions_League.png/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/1920px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR | MUZIK",TR: TRT MUZiK HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/464
+#EXTINF:-1 tvg-id="dreamtv.tr" tvg-name="TR: DREAM TV" tvg-logo="" group-title="TR | MUZIK",TR: DREAM TV
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/455
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: DREAM TURK" tvg-logo="" group-title="TR | MUZIK",TR: DREAM TURK
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/459
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER HD" tvg-logo="" group-title="TR | MUZIK",TR: POWER HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/456
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-name="TR: POWER TURK HD" tvg-logo="" group-title="TR | MUZIK",TR: POWER TURK HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/462
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR 1 HD" tvg-logo="" group-title="TR | MUZIK",TR: NR 1 HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/465
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 TURK HD" tvg-logo="" group-title="TR | MUZIK",TR: NR1 TURK HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/466
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: KRAL TV HD" tvg-logo="" group-title="TR | MUZIK",TR: KRAL TV HD
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/458
+#EXTINF:-1 tvg-id="kralpop.tr" tvg-name="TR: KRAL POP HD+" tvg-logo="" group-title="TR | MUZIK",TR: KRAL POP HD+
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/469
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Orhan Gencebay" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Orhan Gencebay
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/475566
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Neset Ertas" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Neset Ertas
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/475565
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Ibrahim Tatlıses" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Ibrahim Tatlıses
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/474394
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Müslüm Gürses" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Müslüm Gürses
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/474057
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Cengiz Kurtoglu" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Cengiz Kurtoglu
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/473693
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Ferdi Tayfur" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Ferdi Tayfur
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/473694
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Ahmet Kaya" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Ahmet Kaya
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/473560
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Zeki Muren" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Zeki Muren
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/474480
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Soner Arica" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Soner Arica
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/475584
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Mahsun Kırmızıgul" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Mahsun Kırmızıgul
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/474164
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Selda Bagcan" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Selda Bagcan
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/475567
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Baha" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Baha
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/474163
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Zerrin Ozer" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Zerrin Ozer
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/474481
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Zara" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Zara
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/474479
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Yildiz Tilbe" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Yildiz Tilbe
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/474395
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Ibrahim Erkal" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Ibrahim Erkal
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/474393
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Tarkan" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Tarkan
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/474306
+#EXTINF:-1 tvg-id="" tvg-name="TR: MusicAX Sezen Aksu" tvg-logo="" group-title="TR | MUZIK",TR: MusicAX Sezen Aksu
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/474246
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo 45'lik" tvg-logo="" group-title="TR | MUZIK",TR: Radyo 45'lik
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/55383
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX TURKCE POP" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | MUZIK",TR: REDBOX TURKCE POP
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/54844
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX ARABESK TV" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | MUZIK",TR: REDBOX ARABESK TV
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/54845
+#EXTINF:-1 tvg-id="" tvg-name="TR: ZEKI BABA" tvg-logo="" group-title="TR | MUZIK",TR: ZEKI BABA
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/55385
+#EXTINF:-1 tvg-id="" tvg-name="#### TURK MUZIK ####" tvg-logo="" group-title="TR | MUZIK",#### TURK MUZIK ####
+
+http://viptvserver.fun:8080/Mischoerdal27122023/Zt564rt56/473
